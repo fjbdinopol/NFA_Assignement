@@ -1,0 +1,15 @@
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\bin\Debug\net9.0\NFA_Assignement.exe
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\bin\Debug\net9.0\NFA_Assignement.deps.json
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\bin\Debug\net9.0\NFA_Assignement.runtimeconfig.json
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\bin\Debug\net9.0\NFA_Assignement.dll
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\bin\Debug\net9.0\NFA_Assignement.pdb
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\obj\Debug\net9.0\NFA_Assignement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\obj\Debug\net9.0\NFA_Assignement.AssemblyInfoInputs.cache
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\obj\Debug\net9.0\NFA_Assignement.AssemblyInfo.cs
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\obj\Debug\net9.0\NFA_Assignement.csproj.CoreCompileInputs.cache
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\obj\Debug\net9.0\NFA_Assignement.sourcelink.json
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\obj\Debug\net9.0\NFA_Assignement.dll
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\obj\Debug\net9.0\refint\NFA_Assignement.dll
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\obj\Debug\net9.0\NFA_Assignement.pdb
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\obj\Debug\net9.0\NFA_Assignement.genruntimeconfig.cache
+C:\Users\Felix Joseph Dinopol\Documents\GitHub\NFA_Assignement\obj\Debug\net9.0\ref\NFA_Assignement.dll
